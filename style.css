@@ -1,0 +1,125 @@
+* {font-family: 'Space Mono', monospace;}
+/* menu */
+.lab_list {
+    text-align: center;
+   padding: 0;
+   font-family: 'Space Mono', monospace;
+    
+}
+
+.background_intro {
+    background: url(/images/stars_intro.webp);
+}
+
+.referenceToWebsite {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+.referenceToWebsite:hover {
+    background: #2EE59D;
+    box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+    color: white;
+    transform: translateY(-7px);
+}
+
+/* lab main things */
+.main_lab_body {
+background-color: #DCDCDC;
+font-family: 'Space Mono', monospace;
+}
+
+/* lab one menu */
+.lab_one_background {
+    background: url(/images/stars_intro.webp);
+    margin: 0;
+    font-family: 'Space Mono', monospace;
+}
+
+
+.lab_one_list{
+    text-decoration: none;
+    text-align: center;
+    padding: 0;
+}
+
+.lab_one_reference {
+
+text-decoration: none;
+display: inline-block;
+color: white;
+padding: 20px 30px;
+margin: 10px 20px;
+border-radius: 10px;
+text-transform: uppercase;
+letter-spacing: 2px;
+background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+background-size: 200% auto;
+box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+transition: .5s;
+}
+
+.lab_one_reference:hover {
+    background: #2EE59D;
+    box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+    color: white;
+    transform: translateY(-7px);
+}
+
+/* lab one first task */
+.body_lab_task_one {
+    background-color: #DCDCDC;
+    font-family: 'Space Mono', monospace;
+    
+}
+/* lab one task two */
+.body_LabObeTask_two {
+    background-color: #DCDCDC;
+    font-family: 'Space Mono', monospace;
+}
+.h2_task_two {
+    text-align: center;
+}
+.h3_task_two {
+    text-align: center;
+}
+/* lab one task three */
+
+.h2_1_3 {
+    text-align: center;
+}
+
+/* lab one task four */
+.body_1_4 {
+    font-family: 'Space Mono', monospace;
+}
+
+.h2_task_1_4 {
+    text-align: center;
+}
+/* lab one task five */
+.h2_1_5 {
+    text-align: center;
+}
+.body_1_5 {
+    font-family: 'Space Mono', monospace;
+}
+/* lab task six */
+.h2_1_6 {text-align: center;}
+/* lab task seven */
+.h2_1_7 {
+    text-align: center;
+}
+/* lab task eight */
+.h2_1_8 {
+    text-align: center;
+}
